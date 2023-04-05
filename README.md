@@ -12,7 +12,9 @@ A aplicação desses métodos é vasta e tem impacto em diversas áreas, como en
 A importância do Cálculo Numérico reside no fato de que ele possibilita a solução de problemas que seriam impossíveis de serem resolvidos analiticamente. Além disso, com o advento da computação, a área tem se tornado cada vez mais relevante, uma vez que os métodos numéricos são implementados em softwares de simulação e análise de dados, tornando-se essenciais para a resolução de problemas práticos.
 
 ## :computer: Tecnologias Utilizadas
-Python 3.9
+Python 3.9,
+Google Colab e
+Testes no VSCode.
 
 ## :memo: Autor
 Nome: Carlos Jozala
